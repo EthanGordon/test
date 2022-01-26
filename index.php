@@ -6,7 +6,6 @@ $rules = array(
     //
     //API Routes
     'apiShowCords' => "/api/allCords",
-    'apiShowSingleCord' => "/api/singleCord/(?'id'[\w\-]+)",
 
 
 
